@@ -34,4 +34,4 @@ else:
          # OR
 # Enter a number: 4
 # 4 is not a prime number.
-# 2 times 4 is 4.
+# 2 times 2 is 4.
